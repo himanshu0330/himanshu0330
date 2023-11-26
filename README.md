@@ -64,12 +64,18 @@
       height="40"
     />
   </a>
-  
- 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"
+      alt="solidity"
       width="40"
       height="40"
     />
@@ -143,7 +149,6 @@
     />
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-himanshu-13&show_icons=true&locale=en&layout=compact" alt="its-himanshu-13" /></p>
 
