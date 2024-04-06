@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshu-connect/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-connect" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshu_agrawal_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu_agrawal_13" height="30" width="40" /></a>
+<a href="https://instagram.com/himanshu_agrawal_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/himanshu0330/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu0330" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -103,8 +103,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-himanshu-13&show_icons=true&locale=en&layout=compact" alt="its-himanshu-13" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu0330&show_icons=true&locale=en&layout=compact" alt="himanshu0330" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-himanshu-13&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu0330&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-himanshu-13&" alt="its-himanshu-13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu0330&" alt="himanshu0330" /></p>
