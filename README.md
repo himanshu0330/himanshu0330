@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Agrawal</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
-- 🔭 I’m currently working on **HearMeAI**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0330&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0330" /> </p>
 
 - 🌱 I’m currently delving into **Backend and Database Technologies**
 
